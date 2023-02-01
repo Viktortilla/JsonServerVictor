@@ -3,7 +3,7 @@
         {
             "id": 1,
             "name": "player1",
-            "deck":[1,2,3,4,5],
+            "deck":[0,1,2,3,4],
             "cards":
             [
                 "https://bonosdeapuesta-media.s3.eu-west-3.amazonaws.com/wp-content/uploads/2021/05/01221403/carta-de-poker.png",
