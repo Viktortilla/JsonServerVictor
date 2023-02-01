@@ -3,8 +3,19 @@
         {
             "id": 1,
             "name": "player1",
-            "deck":[1,200,700,734,807]
+            "deck":[1,2,3,4,5],
+            "cards":
+            [
+                "https://bonosdeapuesta-media.s3.eu-west-3.amazonaws.com/wp-content/uploads/2021/05/01221403/carta-de-poker.png",
+                "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Playing_card_heart_2.svg/1638px-Playing_card_heart_2.svg.png",
+                "https://img2.freepng.es/20180216/qdq/kisspng-playing-card-ace-of-spades-standard-52-card-deck-s-spades-5a8677b2751046.1861116415187619064795.jpg",
+                "https://w7.pngwing.com/pngs/658/301/png-transparent-poker-playing-card-ace-of-spades-suit-angle-text-heart.png",
+                "https://e7.pngegg.com/pngimages/73/453/png-clipart-playing-card-hearts-poker-diamonds-spade-love-heart.png"
+
+            ]
         }
         
+        
     ]
+   
 }
